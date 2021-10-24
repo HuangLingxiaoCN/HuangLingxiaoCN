@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React, Redux and TypeScript**
 
+- 👨‍💻 All of my projects are available at [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)
+
 - 💬 Ask me about **React, Redux and JavaScript**
 
 - 📫 How to reach me **HuangLingxiaoBusi@outlook.com**
