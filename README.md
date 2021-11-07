@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonhuang1213" alt="jasonhuang1213" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux and TypeScript**
+- 🌱 I’m currently learning **MERN Stack(MongoDB, Express, React, Nodejs)**
 
 - 👨‍💻 All of my projects are available at [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)
 
