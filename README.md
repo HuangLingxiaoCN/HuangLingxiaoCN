@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack(MongoDB, Express, React, Nodejs)**
 
-- 👨‍💻 All of my projects are available at [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at my porfolio [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, Redux and JavaScript**
 
