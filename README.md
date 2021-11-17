@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lingxiao Huang</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">A dedicated full-stack developer</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonhuang1213&row=1" alt="jasonhuang1213" /></a> </p>
