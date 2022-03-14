@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonhuang1213&row=1" alt="jasonhuang1213" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack(MongoDB, Express, React, Nodejs), Docker and AWS**
+- 🌱 I’m currently learning and practicing **MERN Stack(MongoDB, Express, React, Nodejs), AWS and Java**
 
 - 👨‍💻 All of my projects are available at my portfolio [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)
 
