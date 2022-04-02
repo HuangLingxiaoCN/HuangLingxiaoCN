@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my portfolio [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Redux and JavaScript**
+- 💬 Ask me about **React, Redux, JavaScript and AWS**
 
 - 📫 How to reach me **HuangLingxiaoBusi@outlook.com**
 
