@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonhuang1213&row=1" alt="jasonhuang1213" /></a> </p>
 
-- 🌱 I’m currently learning and practicing **MERN Stack(MongoDB, Express, React, Nodejs), AWS and Java**
+- 🌱 I’m currently learning and practicing **MERN Stack(MongoDB, Express, React, Nodejs), TypeScript, AWS and Java**
 
 - 👨‍💻 All of my projects are available at my portfolio [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Redux, JavaScript and AWS**
+- 💬 Ask me about **React, Redux, JavaScript, TypeScript and AWS**
 
 - 📫 How to reach me **HuangLingxiaoBusi@outlook.com**
 
