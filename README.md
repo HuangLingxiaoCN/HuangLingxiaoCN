@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lingxiao Huang</h1>
-<h3 align="center">A dedicated full-stack developer who has strong interest in full-stack development and cloud computing</h3>
+<h1 align="center">Hi 👋, I'm Super Huang</h1>
+<h3 align="center">A seasoned, dedicated Java full-stack developer who has strong interest in Java backend development(Distributed System and microservices), frontend development(Industrial Internet, digital twins，visualization), AI development and nowadays I am learning some knowledge about web3</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonhuang1213&row=1" alt="jasonhuang1213" /></a> </p>
 
-- 🌱 I’m currently doing some **MERN Stack(MongoDB, Express, React, Nodejs)** projects and in the meantime studying **Java Spring and Hibernate**
+- 🌱 I’m currently working on **React and PHP and Spring** fullstack development. In spare time I keep learning about Java backend technologies and web3.
 
 - 👨‍💻 All of my projects are available at my portfolio [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Redux, JavaScript, TypeScript and AWS**
+- 💬 Ask me about **React, JavaScript, Java, Spring, SpringBoot, SpringCloud(microservices)**
 
 - 📫 How to reach me **HuangLingxiaoBusi@outlook.com**
 
