@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **React and PHP and Spring** fullstack development. In spare time I keep learning about Java backend technologies and web3.
 
-- 👨‍💻 All of my projects are available at my portfolio [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)
+~~- 👨‍💻 All of my projects are available at my portfolio [https://lingxiaohuang-portfolio.netlify.app/](https://lingxiaohuang-portfolio.netlify.app/)~~
 
 - 💬 Ask me about **React, JavaScript, Java, Spring, SpringBoot, SpringCloud(microservices)**
 
