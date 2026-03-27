@@ -1,3 +1,7 @@
-<h1 align="center">Master of Engineering from UM</h1>
-<h2 align="center">Currently studying and starting a business</h2>
-<h2 align="center">Hit me on github or LinkedIn</h2>
+## 👋 About Me
+- Master of Systems Engineering with focus on IT, automation and AI
+- Currently studying and trying to start a business
+
+## 🔗 Connect
+- Email: 13297058910@163.com
+- LinkedIn: https://www.linkedin.com/in/lingxiao-huang-78ab94177/
